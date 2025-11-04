@@ -1,5 +1,5 @@
 # Hi, I'm Martina:
-💻 I’m a software developer passionate about creativity, innovation, and storytelling.<br>🎓 Computer Science graduate, combining technical skills with artistic vision.<br>🎮 Exploring WebGL, Three.js, and Blender for 3D and game-related projects.<br>🚀 Exploring the creative side of technology.
+💻 I’m a software developer passionate about creativity, innovation, and storytelling.<br>🎓 Computer Science graduate, combining technical skills with artistic vision.<br>🌌 Crafting 3D worlds using WebGL, Three.js, and Blender.<br>🚀 Exploring the creative side of technology.
 
 
 ## 🌐 Socials:
