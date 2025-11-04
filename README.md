@@ -1,5 +1,5 @@
 # Hi, I'm Martina:
-💻 I’m a software developer passionate about creativity, innovation, and interactive experiences.<br>🎓 Computer Science graduate, combining technical precision with artistic vision.<br>💻 I craft modern web apps with JavaScript, TypeScript, Vue, React, and Node.js.<br>🚀 Always pushing the boundaries of technology and design.
+💻 I’m a software developer passionate about creativity, innovation, and storytelling.<br>🎓 Computer Science graduate, combining technical skills with artistic vision.<br>🎮 Exploring WebGL, Three.js, and Blender for 3D and game-related projects.<br>🚀 Exploring the creative side of technology.
 
 
 ## 🌐 Socials:
